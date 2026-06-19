@@ -1,0 +1,8 @@
+PySide6
+edge-tts
+pydub
+gTTS
+pyinstaller
+certifi
+audioop-lts
+piper-tts
